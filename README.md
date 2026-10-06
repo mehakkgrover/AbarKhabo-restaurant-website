@@ -14,16 +14,16 @@ A collection of modern restaurant website designs created by me.
 [View Live Website](https://norenjwinedine.lovable.app)
 
 ### 🥘 Curry Garden
-[View Live Website](YOUR-CURRY-GARDEN-LINK)
+[View Live Website](https://preview--currygarden1.lovable.app/)
 
 ### 🥗 Pakwan – A Royal Veg Restaurant
-[View Live Website](YOUR-PAKWAN-LINK)
+[View Live Website](https://preview--pakwan.lovable.app/)
 
 ### 🍸 Clock Tower
-[View Live Website](YOUR-CLOCK-TOWER-LINK)
+[View Live Website](https://preview--clocktower1.lovable.app/)
 
 ### 🍋 Almadhaq
-[View Live Website](YOUR-ALMADHAQ-LINK)
+[View Live Website](https://almadhaq.lovable.app)
 
 ### 🍛 Brewocart
 [View Live Website](https://preview--brewocart.lovable.app/)
