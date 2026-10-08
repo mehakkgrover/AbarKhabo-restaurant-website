@@ -43,6 +43,13 @@ A collection of modern restaurant website designs created by me.
 ### 🍷 THE NOOK
 [View Live Website](https://thenook1.lovable.app)
 
+### 🍋 Lost Lemons
+[View Live Website](https://lostlemons.lovable.app)
+
+### 🍷 The Potbelly
+[View Live Website](https://thepotbelly1.lovable.app)
+
+
 
 
 
