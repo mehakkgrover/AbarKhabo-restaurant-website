@@ -49,6 +49,14 @@ A collection of modern restaurant website designs created by me.
 ### 🍷 The Potbelly
 [View Live Website](https://thepotbelly1.lovable.app)
 
+### 🥗 Baba's (Baba Chicken)
+[View Live Website](https://babaschicken.lovable.app)
+
+### 🍸 Glasshouse
+[View Live Website](https://glasshouse1.lovable.app)
+
+
+
 
 
 
